@@ -1,4 +1,6 @@
-[# DRFTPartyBot](https://t.me/mitomchanel
+[# DRFTPartyBot]
+
+https://t.me/mitomchanel
 
 # DRFT Party 
 DRFT Party BOT
